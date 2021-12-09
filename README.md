@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmad Alfarizki</h1>
 <h3 align="center">A passionate backend website developer</h3>
 
-- 👨‍💻 My Portfolio Website [https://madfariz.web.id/](https://madfariz.web.id/)
+- 👨‍💻 My Portfolio Website [https://madfariz.my.id/](https://madfariz.my.id/)
 
 - 📫 How to reach me **ahmfariz24@gmail.com**
 
